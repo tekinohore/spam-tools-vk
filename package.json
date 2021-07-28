@@ -1,0 +1,19 @@
+{
+  "name": "dsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Sanich",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}
